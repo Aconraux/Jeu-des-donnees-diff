@@ -1,0 +1,23 @@
+body {
+	background-color:#104E8B;	
+	
+}
+
+header {
+	color:whitesmoke;
+	text-align:center;
+	font-size:xx-large;
+	font-family:"serif, sans serif, cursive, fantasy,monospace"; 
+	padding:5%;
+}
+
+#btn_play {
+	text-align: center;
+}
+
+input {
+	margin-top: 2%;
+	padding-left: 2%;
+	padding-right: 2%;
+	font-size: larger;
+}
