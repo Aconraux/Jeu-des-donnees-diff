@@ -58,6 +58,9 @@ let data = `
 		<!-- Credits -->
 		<a-text color="white" value="Ministère de la Culture - SNUM" font="https://raw.githubusercontent.com/husky-helen/aframe-font-fr/master/custom-msdf.json" negate="false" width="8" position="-1 1 -4" rotation="-90 0 0"></a-text>
 		
+		<!-- Logo -->	
+		<a-image width="2" height="1" src="./logo.png" position="2 0.5 -3" rotation="-90 0 0"></a-image>
+
 		<!--Robot gif-->
 		<a-entity geometry="primitive:circle; radius: 1.5;" position="-4.1 0.5 3" rotation="-90 0 0" material="shader:gif;src:#robot;" gif=""></a-entity>
 	</a-marker>
