@@ -7,7 +7,7 @@
         "La data visualisation c'est la repr\u00e9sentation de donn\u00e9es, un tableau ou un autre format visuel. Elle communique l'information contenue dans les donn\u00e9es via des \u201cimages\u201d. Elle permet de voir plus facilement les tendances et les mod\u00e8les relatifs \u00e0 ces donn\u00e9es.",
         "",
         "https://fr.wikipedia.org/wiki/Visualisation_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Datavisualisation.png",
+        "Scripts\\Wiki_QR\\0000.png",
         "Scripts\\AR_Code\\0000.png"
     ],
     "0001": [
@@ -18,7 +18,7 @@
         "Un catalogue de biblioth\u00e8que est la liste descriptive des documents que poss\u00e8de cette biblioth\u00e8que : livres, p\u00e9riodiques, publications gouvernementales, documentation audiovisuelle, m\u00e9moires, th\u00e8ses, rapports, etc. Un catalogue de biblioth\u00e8que permet de : v\u00e9rifier la disponibilit\u00e9 des documents.",
         "",
         "https://fr.wikipedia.org/wiki/Catalogue_de_biblioth%C3%A8que",
-        "Scripts\\Wiki_QR\\Catalogue_(biblioth\u00e8que).png",
+        "Scripts\\Wiki_QR\\0001.png",
         "Scripts\\AR_Code\\0001.png"
     ],
     "0002": [
@@ -29,7 +29,7 @@
         "Un centre culturel (parfois nomm\u00e9 complexe culturel) est une institution et un lieu qui propose notamment une programmation de spectacles, des expositions, des conf\u00e9rences, mais aussi de l'animation socioculturelle \u00e0 destination de la population locale ou de passage.",
         "",
         "https://fr.wikipedia.org/wiki/Centre_culturel",
-        "Scripts\\Wiki_QR\\Base_des_lieux_culturels.png",
+        "Scripts\\Wiki_QR\\0002.png",
         "Scripts\\AR_Code\\0002.png"
     ],
     "0003": [
@@ -40,7 +40,7 @@
         "La diffusion des donn\u00e9es correspond \u00e0 la phase des processus statistiques au cours de laquelle les donn\u00e9es collect\u00e9es et compil\u00e9es par les services de statistique sont rendues publiques.",
         "",
         "https://fr.wikipedia.org/wiki/Donn%C3%A9es_ouvertes",
-        "Scripts\\Wiki_QR\\Diffuser_des_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0003.png",
         "Scripts\\AR_Code\\0003.png"
     ],
     "0004": [
@@ -51,7 +51,7 @@
         "L'autocompl\u00e9tion d\u00e9signe une assistance \u00e0 la saisie, utilis\u00e9e dans certains formulaires. Lorsque l'internaute tape quelques lettres, un mot complet correspondant lui est propos\u00e9. Certans champs peuvent \u00e9galement \u00eatre pr\u00e9-remplis lorsque l'internaute a d\u00e9j\u00e0 visite le site.",
         "",
         "https://fr.wikipedia.org/wiki/Auto-compl%C3%A9tion",
-        "Scripts\\Wiki_QR\\Auto_compl\u00e9tion_(formulaire).png",
+        "Scripts\\Wiki_QR\\0004.png",
         "Scripts\\AR_Code\\0004.png"
     ],
     "0005": [
@@ -62,7 +62,7 @@
         "Le tableau de bord est un outil de pilotage d'une entreprise constitu\u00e9 de plusieurs indicateurs de performance et qui a pour principales vocations d'anticiper les \u00e9volutions pr\u00e9visibles et d'inciter le chef d'entreprise \u00e0 prendre des d\u00e9cisions.",
         "",
         "https://fr.wikipedia.org/wiki/Tableau_de_bord_(gestion)",
-        "Scripts\\Wiki_QR\\Tableaux_de_bord.png",
+        "Scripts\\Wiki_QR\\0005.png",
         "Scripts\\AR_Code\\0005.png"
     ],
     "0006": [
@@ -73,7 +73,7 @@
         "La statistique est la discipline qui \u00e9tudie des ph\u00e9nom\u00e8nes \u00e0 travers la collecte de donn\u00e9es, leur traitement, leur analyse, l'interpr\u00e9tation des r\u00e9sultats et leur pr\u00e9sentation afin de rendre ces donn\u00e9es compr\u00e9hensibles par tous.",
         "",
         "https://fr.wikipedia.org/wiki/Statistique",
-        "Scripts\\Wiki_QR\\Statistique.png",
+        "Scripts\\Wiki_QR\\0006.png",
         "Scripts\\AR_Code\\0006.png"
     ],
     "0007": [
@@ -84,7 +84,7 @@
         "Un Web Service est une application qui permet d'\u00e9changer des donn\u00e9es avec d'autres applications web. M\u00eame si ces derni\u00e8res sont construites dans des langages de programmation diff\u00e9rents. Parmi les Web Services les plus connus on peut citer SOAP, REST ou HTTP.",
         "",
         "https://fr.wikipedia.org/wiki/Service_web",
-        "Scripts\\Wiki_QR\\Web_service.png",
+        "Scripts\\Wiki_QR\\0007.png",
         "Scripts\\AR_Code\\0007.png"
     ],
     "0008": [
@@ -95,7 +95,7 @@
         "En informatique, un script d\u00e9signe un programme (ou un bout de programme) charg\u00e9 d'ex\u00e9cuter une action pr\u00e9-d\u00e9finie quand un utilisateur r\u00e9alise une action ou qu'une page web est en cours d'affichage sur un \u00e9cran.",
         "",
         "https://fr.wikipedia.org/wiki/Langage_de_script",
-        "Scripts\\Wiki_QR\\Script.png",
+        "Scripts\\Wiki_QR\\0008.png",
         "Scripts\\AR_Code\\0008.png"
     ],
     "0009": [
@@ -106,7 +106,7 @@
         " Le sigle RGPD signifie \u00ab R\u00e8glement G\u00e9n\u00e9ral sur la Protection des Donn\u00e9es \u00bb (en anglais \u00ab General Data Protection Regulation \u00bb ou GDPR). Le RGPD encadre le traitement des donn\u00e9es personnelles sur le territoire de l'Union europ\u00e9enne.",
         "",
         "https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\RGPD.png",
+        "Scripts\\Wiki_QR\\0009.png",
         "Scripts\\AR_Code\\0009.png"
     ],
     "0010": [
@@ -117,7 +117,7 @@
         "Une donn\u00e9e personnelle est toute information se rapportant \u00e0 une personne physique identifi\u00e9e ou identifiable. Mais, parce qu'elles concernent des personnes, celles-ci doivent en conserver la ma\u00eetrise.",
         "",
         "https://fr.wikipedia.org/wiki/Donn%C3%A9es_personnelles",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_\u00e0_caract\u00e8re_personnel.png",
+        "Scripts\\Wiki_QR\\0010.png",
         "Scripts\\AR_Code\\0010.png"
     ],
     "0011": [
@@ -128,7 +128,7 @@
         "Dans un domaine bien pr\u00e9cis, le droit donne toutefois une d\u00e9finition des m\u00e9tadonn\u00e9es. L'article L. 127-1, 6? du Code de l'environnement pr\u00e9cise en effet qu'il s'agit des \u00ab information(s) d\u00e9crivant les s\u00e9ries et services de donn\u00e9es g\u00e9ographiques et rendant possible leur recherche, leur inventaire et leur utilisation \u00bb.",
         "",
         "https://fr.wikipedia.org/wiki/M%C3%A9tadonn%C3%A9e",
-        "Scripts\\Wiki_QR\\M\u00e9tadonn\u00e9es_de_droits.png",
+        "Scripts\\Wiki_QR\\0011.png",
         "Scripts\\AR_Code\\0011.png"
     ],
     "0012": [
@@ -139,7 +139,7 @@
         "La citoyennet\u00e9 se d\u00e9finit par la participation \u00e0 la vie collective. Une notion de collectivit\u00e9 qui va souvent de pair avec l'id\u00e9e de solidarit\u00e9, d'entraide et d'\u00e9coute. Ainsi, si l'engagement citoyen et associatif est une initiative individuelle au d\u00e9part, il permet de mener des actions pour le bien dans la soci\u00e9t\u00e9.",
         "",
         "https://fr.wikipedia.org/wiki/Le_Mouvement_associatif",
-        "Scripts\\Wiki_QR\\domaine_associatif_et_citoyen.png",
+        "Scripts\\Wiki_QR\\0012.png",
         "Scripts\\AR_Code\\0012.png"
     ],
     "0013": [
@@ -150,7 +150,7 @@
         "L'anonymisation est un traitement qui consiste \u00e0 utiliser un ensemble de techniques de mani\u00e8re \u00e0 rendre impossible, en pratique, toute identification de la personne par quelque moyen que ce soit et de mani\u00e8re irr\u00e9versible. L'anonymisation ne doit pas \u00eatre confondue avec la pseudonymisation.",
         "",
         "https://fr.wikipedia.org/wiki/Anonymisation",
-        "Scripts\\Wiki_QR\\Anonymisation.png",
+        "Scripts\\Wiki_QR\\0013.png",
         "Scripts\\AR_Code\\0013.png"
     ],
     "0014": [
@@ -161,7 +161,7 @@
         "La pseudonymisation consiste en un remplacement de certaines donn\u00e9es personnelles par d'autres donn\u00e9es ne permettant pas d'identifier la personne physique concern\u00e9e par ce changement. Mais cette m\u00e9thode n'est pas irr\u00e9versible contrairement \u00e0 l'anonymisation des donn\u00e9es \u00e0 caract\u00e8re personnelles.",
         "",
         "https://fr.wikipedia.org/wiki/Pseudonymisation",
-        "Scripts\\Wiki_QR\\Pseudonymisation.png",
+        "Scripts\\Wiki_QR\\0014.png",
         "Scripts\\AR_Code\\0014.png"
     ],
     "0015": [
@@ -172,7 +172,7 @@
         "Les Open Data, ou donn\u00e9es ouvertes, sont des donn\u00e9es auxquelles l'acc\u00e8s est totalement public et libre de droit, au m\u00eame titre que l'exploitation et la r\u00e9utilisation. Ces donn\u00e9es offrent de nombreuses opportunit\u00e9s pour \u00e9tendre le savoir humain et cr\u00e9er de nouveaux produits et services de qualit\u00e9.",
         "",
         "https://fr.wikipedia.org/wiki/Donn%C3%A9es_ouvertes",
-        "Scripts\\Wiki_QR\\open_government_data.png",
+        "Scripts\\Wiki_QR\\0015.png",
         "Scripts\\AR_Code\\0015.png"
     ],
     "0016": [
@@ -183,7 +183,7 @@
         " Le droit \u00e0 l'oubli num\u00e9rique est aussi appel\u00e9 le droit \u00e0 l'effacement (voir article 17 du r\u00e8glement n? 2016/679, dit r\u00e8glement g\u00e9n\u00e9ral sur la protection des donn\u00e9es). Ce droit permet \u00e0 un individu de demander l'effacement d'une information en ligne qui la concerne",
         "",
         "https://fr.wikipedia.org/wiki/Droit_%C3%A0_l%27oubli",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_personnelles,_droit_\u00e0_l\u2019oubli_et_droits_voisins.png",
+        "Scripts\\Wiki_QR\\0016.png",
         "Scripts\\AR_Code\\0016.png"
     ],
     "0017": [
@@ -194,7 +194,7 @@
         "Ce sont les informations qui r\u00e9v\u00e8lent la pr\u00e9tendue origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale.",
         "",
         "https://fr.wikipedia.org/wiki/Donn%C3%A9es_sensibles",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_sensibles_(RGPD,_donn\u00e9es_couvertes_par_le_secret_statistiques,_informations_classifi\u00e9es).png",
+        "Scripts\\Wiki_QR\\0017.png",
         "Scripts\\AR_Code\\0017.png"
     ],
     "0018": [
@@ -205,7 +205,7 @@
         "L'impact environnemental du num\u00e9rique regroupe l'ensemble des effets des technologies de l'information et de la communication sur l'environnement. ",
         "",
         "https://fr.wikipedia.org/wiki/Impact_environnemental_du_num%C3%A9rique",
-        "Scripts\\Wiki_QR\\L\u2019impact_du_num\u00e9rique_sur_la_culture.png",
+        "Scripts\\Wiki_QR\\0018.png",
         "Scripts\\AR_Code\\0018.png"
     ],
     "0019": [
@@ -216,7 +216,7 @@
         "Localiser la position de quelque chose ou d'une personne, en g\u00e9n\u00e9ral sur une carte \u00e0 l'aide de coordonn\u00e9es g\u00e9ographiques.",
         "",
         "https://fr.wikipedia.org/wiki/M%C3%A9tadonn%C3%A9e",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_g\u00e9olocalis\u00e9es.png",
+        "Scripts\\Wiki_QR\\0019.png",
         "Scripts\\AR_Code\\0019.png"
     ],
     "0020": [
@@ -227,7 +227,7 @@
         "une d\u00e9marche pr\u00e9ventive et innovante qui permet de r\u00e9duire les impacts n\u00e9gatifs du produit, sur l'environnement sur l'ensemble de son cycle de vie (ACV), tout en conservant ses qualit\u00e9s d'usage.",
         "",
         "https://fr.wikipedia.org/wiki/Impact_environnemental_du_num%C3%A9rique",
-        "Scripts\\Wiki_QR\\Eco-conception_num\u00e9rique_.png",
+        "Scripts\\Wiki_QR\\0020.png",
         "Scripts\\AR_Code\\0020.png"
     ],
     "0021": [
@@ -238,7 +238,7 @@
         " La \u00ab propri\u00e9t\u00e9 litt\u00e9raire et artistique \u00bb (ou \u00ab PLA \u00bb) est une branche de la propri\u00e9t\u00e9 intellectuelle, l'autre branche \u00e9tant la propri\u00e9t\u00e9 industrielle (droit des marques, droit des brevets, droit des dessins et mod\u00e8les).",
         "",
         "https://fr.wikipedia.org/wiki/Propri%C3%A9t%C3%A9_litt%C3%A9raire_et_artistique",
-        "Scripts\\Wiki_QR\\PLA_(Propri\u00e9t\u00e9_litt\u00e9raire_et_artistiques).png",
+        "Scripts\\Wiki_QR\\0021.png",
         "Scripts\\AR_Code\\0021.png"
     ],
     "0022": [
@@ -249,7 +249,7 @@
         "L\u2019objectif est \u00e0 la fois de faciliter l\u2019acc\u00e8s des chercheurs par des proc\u00e9dures harmonis\u00e9es et une meilleure information, et aussi de mieux valoriser aupr\u00e8s des administrations les travaux des chercheurs.Et la loi n\u00b02016-1321 vise \u00e0 favoriser l\u2019ouverture des donn\u00e9es et du savoir, \u00e0 garantir un environnement num\u00e9rique ouvert et respectueux de la vie priv\u00e9e des internautes et \u00e0 faciliter l\u2019acc\u00e8s des citoyens au num\u00e9rique.",
         "",
         "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043754396",
-        "Scripts\\Wiki_QR\\Droits_d\u2019acc\u00e8s_des_chercheurs_et_des_citoyens.png",
+        "Scripts\\Wiki_QR\\0022.png",
         "Scripts\\AR_Code\\0022.png"
     ],
     "0023": [
@@ -260,7 +260,7 @@
         "La collecte et le traitement de donn\u00e9es personnelles (nom, pr\u00e9nom,... ) sont soumis \u00e0 des obligations destin\u00e9es \u00e0 prot\u00e9ger la vie priv\u00e9e et les libert\u00e9s individuelles des personnes dont les donn\u00e9es sont collect\u00e9es.La r\u00e9glementation accorde des droits aux personnes dont les donn\u00e9es sont collect\u00e9es et imposent des obligations aux entreprises qui collectent ces informations.",
         "",
         "https://www.cnil.fr/fr/le-droit-detre-informe-sur-lutilisation-de-vos-donnees-0",
-        "Scripts\\Wiki_QR\\Droit_de_collecte.png",
+        "Scripts\\Wiki_QR\\0023.png",
         "Scripts\\AR_Code\\0023.png"
     ],
     "0024": [
@@ -271,7 +271,7 @@
         "L'ensemble des documents, y compris les donn\u00e9es, quels que soient leur date, leur lieu de conservation, leur forme et leur support, produits ou re\u00e7us par toute personne physique ou morale et par tout service ou organisme public ou priv\u00e9 dans l'exercice de leur activit\u00e9.",
         "",
         "https://www.cnil.fr/fr/publication-en-ligne-et-reutilisation-des-donnees-publiques-open-data",
-        "Scripts\\Wiki_QR\\Communicabilit\u00e9_des_donn\u00e9es_publiques_(archives).png",
+        "Scripts\\Wiki_QR\\0024.png",
         "Scripts\\AR_Code\\0024.png"
     ],
     "0025": [
@@ -282,7 +282,7 @@
         "Les administrations \u00e9changent entre elles toutes les donn\u00e9es strictement n\u00e9cessaires pour traiter une demande pr\u00e9sent\u00e9e par le public ou une d\u00e9claration transmise par celui-ci en application d'une disposition l\u00e9gislative ou d'un acte r\u00e9glementaire.",
         "",
         "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367410/",
-        "Scripts\\Wiki_QR\\Le_partage_des_donn\u00e9es_entre_administrations.png",
+        "Scripts\\Wiki_QR\\0025.png",
         "Scripts\\AR_Code\\0025.png"
     ],
     "0026": [
@@ -293,7 +293,7 @@
         "Une base de donn\u00e9es est une collection organis\u00e9e d'informations structur\u00e9es, g\u00e9n\u00e9ralement stock\u00e9es \u00e9lectroniquement dans un syst\u00e8me informatique. Une BDD est g\u00e9n\u00e9ralement contr\u00f4l\u00e9e par un syst\u00e8me de gestion de base de donn\u00e9es (DBMS).",
         "",
         "https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\BDD.png",
+        "Scripts\\Wiki_QR\\0026.png",
         "Scripts\\AR_Code\\0026.png"
     ],
     "0027": [
@@ -304,7 +304,7 @@
         "La science ouverte (open science ou open research pour les anglophones) est un mouvement qui cherche \u00e0 rendre la recherche scientifique et les donn\u00e9es qu'elle produit accessibles \u00e0 tous et dans tous les niveaux de la soci\u00e9t\u00e9.",
         "",
         "https://fr.wikipedia.org/wiki/Science_ouverte",
-        "Scripts\\Wiki_QR\\Science_ouverte.png",
+        "Scripts\\Wiki_QR\\0027.png",
         "Scripts\\AR_Code\\0027.png"
     ],
     "0028": [
@@ -315,7 +315,7 @@
         "Un moteur de recherche est, comme son nom l'indique, un outil qui permet de rechercher sur le Web (mais aussi sur un ordinateur personnel) des ressources, des contenus, des documents etc., \u00e0 partir de mots cl\u00e9s.",
         "",
         "https://fr.wikipedia.org/wiki/Moteur_de_recherche",
-        "Scripts\\Wiki_QR\\Moteur_de_recherche.png",
+        "Scripts\\Wiki_QR\\0028.png",
         "Scripts\\AR_Code\\0028.png"
     ],
     "0029": [
@@ -326,7 +326,7 @@
         "La locution r\u00e9seau informatique fait r\u00e9f\u00e9rence \u00e0 la mise en relation de plusieurs \u00e9quipements informatiques qui peuvent ainsi partager des donn\u00e9es entre eux, notamment dans le monde de l'entreprise. Exemple : Le r\u00e9seau informatique permet d'acc\u00e9der \u00e0 nos fichiers de n'importe quel ordinateur",
         "",
         "https://fr.wikipedia.org/wiki/R%C3%A9seau_informatique",
-        "Scripts\\Wiki_QR\\R\u00e9seau_informatique.png",
+        "Scripts\\Wiki_QR\\0029.png",
         "Scripts\\AR_Code\\0029.png"
     ],
     "0030": [
@@ -337,7 +337,7 @@
         "Une Interface Homme-Machine (IHM) est une interface utilisateur permettant de connecter une personne \u00e0 une machine, \u00e0 un syst\u00e8me ou \u00e0 un appareil. Ce terme d\u00e9finit globalement n'importe quel dispositif permettant \u00e0 un utilisateur d'interagir avec un appareil en milieu industriel.",
         "",
         "https://fr.wikipedia.org/wiki/Interactions_homme-machine",
-        "Scripts\\Wiki_QR\\Interface_homme_machine_(IHM).png",
+        "Scripts\\Wiki_QR\\0030.png",
         "Scripts\\AR_Code\\0030.png"
     ],
     "0031": [
@@ -348,7 +348,7 @@
         "DICS est un mod\u00e8le hi\u00e9rarchique souvent d\u00e9crit comme une pyramide avec des donn\u00e9es \u00e0 sa base et la sagesse \u00e0 son sommet. \u00c0 cet \u00e9gard, il est similaire \u00e0 la hi\u00e9rarchie des besoins de Maslow, en ce que chaque niveau de la hi\u00e9rarchie est consid\u00e9r\u00e9 comme un pr\u00e9curseur essentiel des niveaux sup\u00e9rieurs.",
         "",
         "https://fr.wikipedia.org/wiki/Pyramide_DICS",
-        "Scripts\\Wiki_QR\\Pyramide_data_information_connaissance_sagesse_pr\u00e9vision.png",
+        "Scripts\\Wiki_QR\\0031.png",
         "Scripts\\AR_Code\\0031.png"
     ],
     "0032": [
@@ -359,7 +359,7 @@
         "Cybers\u00e9curit\u00e9 est un n\u00e9ologisme qui d\u00e9signe l'ensemble des outils et des processus de s\u00e9curit\u00e9 utilis\u00e9s pour la protection de l'environnement num\u00e9rique (le cyber-environnement). La cybers\u00e9curit\u00e9 prot\u00e8ge \u00e0 la fois les personnes, les id\u00e9es et les donn\u00e9es.",
         "",
         "https://fr.wikipedia.org/wiki/Cybers%C3%A9curit%C3%A9",
-        "Scripts\\Wiki_QR\\Cybers\u00e9curit\u00e9.png",
+        "Scripts\\Wiki_QR\\0032.png",
         "Scripts\\AR_Code\\0032.png"
     ],
     "0033": [
@@ -370,7 +370,7 @@
         "Un syst\u00e8me de gestion de base de donn\u00e9es (SGBD) est un logiciel syst\u00e8me permettant aux utilisateurs et programmeurs de cr\u00e9er et de g\u00e9rer des bases de donn\u00e9es.",
         "",
         "https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\SGBD.png",
+        "Scripts\\Wiki_QR\\0033.png",
         "Scripts\\AR_Code\\0033.png"
     ],
     "0034": [
@@ -381,7 +381,7 @@
         "Une donn\u00e9e est la repr\u00e9sentation d'une information dans un programme : soit dans le texte du programme (code source), soit en m\u00e9moire durant l'ex\u00e9cution.",
         "",
         "https://fr.wikipedia.org/wiki/Donn%C3%A9e_(informatique)",
-        "Scripts\\Wiki_QR\\donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0034.png",
         "Scripts\\AR_Code\\0034.png"
     ],
     "0035": [
@@ -392,7 +392,7 @@
         "Caract\u00e9ristique formelle normalis\u00e9e et structur\u00e9e utilis\u00e9e pour la description et le traitement des contenus des ressources num\u00e9riques.",
         "",
         "https://fr.wikipedia.org/wiki/M%C3%A9tadonn%C3%A9e",
-        "Scripts\\Wiki_QR\\m\u00e9tadonn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0035.png",
         "Scripts\\AR_Code\\0035.png"
     ],
     "0036": [
@@ -403,7 +403,7 @@
         "Les liens ARK (Archival Ressource Key) sont des identifiants uniques et p\u00e9rennes propres \u00e0 chaque image. Ils permettent de citer un document num\u00e9rique \u00e0 partir d'une autre page Internet.",
         "",
         "https://fr.wikipedia.org/wiki/Archival_Resource_Key",
-        "Scripts\\Wiki_QR\\ARK.png",
+        "Scripts\\Wiki_QR\\0036.png",
         "Scripts\\AR_Code\\0036.png"
     ],
     "0037": [
@@ -414,7 +414,7 @@
         "Herbergement de donn\u00e9es ( Le Cloud) permet de garantir une meilleure s\u00e9curit\u00e9, disponibilit\u00e9, d\u00e9ploiement rapide mais les co\u00fbts \u00e0 long terme sont souvent \u00e9lev\u00e9s, et internet d\u00e9termine l'exp\u00e9rience utilisateur.",
         "",
         "https://fr.wikipedia.org/wiki/Centre_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\H\u00e9bergement.png",
+        "Scripts\\Wiki_QR\\0037.png",
         "Scripts\\AR_Code\\0037.png"
     ],
     "0038": [
@@ -425,7 +425,7 @@
         "Un \u00ab permalien \u00bb est un lien actionnable, un point d'entr\u00e9e construit pour maintenir dans la dur\u00e9e l'acc\u00e8s \u00e0 une ressource num\u00e9rique. Le permalien, constitu\u00e9 d'un nom de serveur rendant le lien \u00ab actionnable \u00bb et d'un \u00ab identifiant p\u00e9renne \u00bb.",
         "",
         "https://fr.wikipedia.org/wiki/Identifiant_p%C3%A9renne",
-        "Scripts\\Wiki_QR\\Liens_p\u00e9rennes_(ARK,_DOI).png",
+        "Scripts\\Wiki_QR\\0038.png",
         "Scripts\\AR_Code\\0038.png"
     ],
     "0039": [
@@ -436,7 +436,7 @@
         "D\u00e9placement de donn\u00e9es ayant vocation \u00e0 \u00eatre trait\u00e9es,",
         "",
         "https://fr.wikipedia.org/wiki/Transmission_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Transfert_de_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0039.png",
         "Scripts\\AR_Code\\0039.png"
     ],
     "0040": [
@@ -447,7 +447,7 @@
         "La s\u00e9curit\u00e9 des syst\u00e8mes d\u2019information (SSI), est l\u2019ensemble des moyens techniques, organisationnels, juridiques et humains n\u00e9cessaires \u00e0 la mise en place de moyens visant \u00e0 emp\u00eacher l'utilisation non autoris\u00e9e, le mauvais usage, la modification ou le d\u00e9tournement du syst\u00e8me d'information.",
         "",
         "https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information",
-        "Scripts\\Wiki_QR\\Mots_de_passe_et_s\u00e9curit\u00e9_des_SI.png",
+        "Scripts\\Wiki_QR\\0040.png",
         "Scripts\\AR_Code\\0040.png"
     ],
     "0041": [
@@ -458,7 +458,7 @@
         "Le droit d'acc\u00e8s et de rectification: A tout moment, vous pouvez demander l'acc\u00e8s \u00e0 vos donn\u00e9es \u00e0 caract\u00e8re personnel et leur rectification si celles-ci sont inexactes ou incompl\u00e8tes. Le droit \u00e0 l'effacement (\u00ab droit \u00e0 l'oubli \u00bb) : Vous avez le droit d'obtenir l'effacement de vos donn\u00e9es \u00e0 caract\u00e8re personnel.",
         "",
         "https://www.cnil.fr/fr/donnees-personnelles",
-        "Scripts\\Wiki_QR\\Les_politiques_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0041.png",
         "Scripts\\AR_Code\\0041.png"
     ],
     "0042": [
@@ -469,7 +469,7 @@
         "C'est l'outil qui permet au chercheur de prendre connaissance du contenu d'un fonds et d'en consulter les documents. Il existe diff\u00e9rents types d'instruments de recherche, dont la forme est r\u00e8glement\u00e9e par des normes et textes officiels.",
         "",
         "https://fr.wikipedia.org/wiki/Instrument_de_recherche",
-        "Scripts\\Wiki_QR\\Instrument_de_recherche_(archives).png",
+        "Scripts\\Wiki_QR\\0042.png",
         "Scripts\\AR_Code\\0042.png"
     ],
     "0043": [
@@ -480,7 +480,7 @@
         "un mod\u00e8le de donn\u00e9es est un mod\u00e8le qui d\u00e9crit la mani\u00e8re dont sont repr\u00e9sent\u00e9es les donn\u00e9es dans une organisation m\u00e9tier, un syst\u00e8me d'information ou une base de donn\u00e9es.",
         "",
         "https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Mod\u00e8le_de_donn\u00e9es_(TB,_RICO,_CIDOCCRM).png",
+        "Scripts\\Wiki_QR\\0043.png",
         "Scripts\\AR_Code\\0043.png"
     ],
     "0044": [
@@ -491,7 +491,7 @@
         "Le chief data officer participe au pilotage de la strat\u00e9gie globale de l'entreprise, Le data architect con\u00e7oit et g\u00e8re de vastes bases de donn\u00e9es pour stocker et organiser les donn\u00e9es, Le data scientist recueille, traite, analyse et fait parler les donn\u00e9es massives, autrement appel\u00e9es \u201cbig data\u201d, L'ing\u00e9nieur data b\u00e2tit d'\u00e9normes r\u00e9servoirs de donn\u00e9es pour les stocker et les tester.",
         "",
         "https://www.pole-emploi.fr/actualites/le-dossier/les-metiers-de-demain/les-metiers-de-la-data.html",
-        "Scripts\\Wiki_QR\\Open_dataFormation_Datactivist_Culture.png",
+        "Scripts\\Wiki_QR\\0044.png",
         "Scripts\\AR_Code\\0044.png"
     ],
     "0045": [
@@ -502,7 +502,7 @@
         "Le \"golden record\" est la version d'une donn\u00e9e r\u00e9f\u00e9rentielle que l'on consid\u00e8re comme la v\u00e9rit\u00e9. Dans le syst\u00e8me d'information, une m\u00eame donn\u00e9e, par exemple un client, peut exister dans autant de versions que de syst\u00e8mes en h\u00e9bergeant une copie.Chaque version est, en g\u00e9n\u00e9ral, une part de la v\u00e9rit\u00e9.\n\n",
         "",
         "https://fr.wikipedia.org/wiki/Gestion_des_donn%C3%A9es_de_r%C3%A9f%C3%A9rence",
-        "Scripts\\Wiki_QR\\S\u00e9rie_\u00ab_or_\u00bb_de_donn\u00e9es,_\u00ab_golden_record_\u00bb.png",
+        "Scripts\\Wiki_QR\\0045.png",
         "Scripts\\AR_Code\\0045.png"
     ],
     "0046": [
@@ -513,7 +513,7 @@
         "L'intelligence artificielle (IA) fait r\u00e9f\u00e9rence \u00e0 des syst\u00e8mes ou des machines qui imitent l'intelligence humaine pour effectuer des t\u00e2ches et qui peuvent s'am\u00e9liorer en fonction des informations collect\u00e9es gr\u00e2ce \u00e0 l'it\u00e9ration.",
         "",
         "https://fr.wikipedia.org/wiki/Intelligence_artificielle",
-        "Scripts\\Wiki_QR\\IA.png",
+        "Scripts\\Wiki_QR\\0046.png",
         "Scripts\\AR_Code\\0046.png"
     ],
     "0047": [
@@ -524,7 +524,7 @@
         "Trois dimensions ou 3D sont des expressions qui caract\u00e9risent l'espace qui nous entoure, tel que per\u00e7u par notre vision, en ce qui concerne la largeur, la hauteur et la profondeur.",
         "",
         "https://fr.wikipedia.org/wiki/Trois_dimensions",
-        "Scripts\\Wiki_QR\\3D.png",
+        "Scripts\\Wiki_QR\\0047.png",
         "Scripts\\AR_Code\\0047.png"
     ],
     "0048": [
@@ -535,7 +535,7 @@
         "NFT en fran\u00e7ais \"jeton non fongible\" et d\u00e9signe un titre num\u00e9rique d'authenticit\u00e9 d'un objet immat\u00e9riel. C'est ainsi un titre de propri\u00e9t\u00e9 consign\u00e9 par un registre num\u00e9rique.",
         "",
         "https://fr.wikipedia.org/wiki/Jeton_non_fongible",
-        "Scripts\\Wiki_QR\\NFT.png",
+        "Scripts\\Wiki_QR\\0048.png",
         "Scripts\\AR_Code\\0048.png"
     ],
     "0049": [
@@ -546,7 +546,7 @@
         "Un jumeau num\u00e9rique (en anglais, digital twin ou device shadow) est une r\u00e9plique num\u00e9rique d'un objet, d'un processus ou d'un syst\u00e8me qui peut \u00eatre utilis\u00e9 \u00e0 diverses fins.",
         "",
         "https://fr.wikipedia.org/wiki/Jumeau_num%C3%A9rique",
-        "Scripts\\Wiki_QR\\jumeaux_num\u00e9riques.png",
+        "Scripts\\Wiki_QR\\0049.png",
         "Scripts\\AR_Code\\0049.png"
     ],
     "0050": [
@@ -557,7 +557,7 @@
         "La r\u00e9alit\u00e9 virtuelle (ou Virtual Reality en anglais) est une expression qui d\u00e9signe les dispositifs permettant de simuler num\u00e9riquement un environnement par la machine (ordinateur).",
         "",
         "https://fr.wikipedia.org/wiki/R%C3%A9alit%C3%A9_virtuelle",
-        "Scripts\\Wiki_QR\\R\u00e9alit\u00e9_virtuelle.png",
+        "Scripts\\Wiki_QR\\0050.png",
         "Scripts\\AR_Code\\0050.png"
     ],
     "0051": [
@@ -568,7 +568,7 @@
         "Une API, est un ensemble de d\u00e9finitions et de protocoles qui facilite la cr\u00e9ation et l'int\u00e9gration de logiciels d'applications.",
         "",
         "https://fr.wikipedia.org/wiki/Interface_de_programmation",
-        "Scripts\\Wiki_QR\\API.png",
+        "Scripts\\Wiki_QR\\0051.png",
         "Scripts\\AR_Code\\0051.png"
     ],
     "0052": [
@@ -579,7 +579,7 @@
         "Ensemble des donn\u00e9es g\u00e9n\u00e9r\u00e9es par les nouvelles technologies, caract\u00e9ris\u00e9es par leur volume colossal.",
         "",
         "https://fr.wikipedia.org/wiki/Big_data",
-        "Scripts\\Wiki_QR\\M\u00e9gadonn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0052.png",
         "Scripts\\AR_Code\\0052.png"
     ],
     "0053": [
@@ -590,7 +590,7 @@
         "La blockchain : c'est une technologie de stockage et de transmission d'informations, prenant la forme d'une base de donn\u00e9es. qui a la particularit\u00e9 d'\u00eatre partag\u00e9e simultan\u00e9ment avec tous ses utilisateurs et qui ne d\u00e9pend d'aucun organe central. a pour avantage d'\u00eatre rapide et s\u00e9curis\u00e9e.",
         "",
         "https://fr.wikipedia.org/wiki/Blockchain",
-        "Scripts\\Wiki_QR\\Perspectives_ou_buzzwords_:_blockchain\u2026.png",
+        "Scripts\\Wiki_QR\\0053.png",
         "Scripts\\AR_Code\\0053.png"
     ],
     "0054": [
@@ -601,7 +601,7 @@
         "Le Lidar (LIght Detection And Ranging) est une technique de t\u00e9l\u00e9m\u00e9trie (mesure de distance) qui utilise les propri\u00e9t\u00e9s de la lumi\u00e8re.",
         "",
         "https://fr.wikipedia.org/wiki/Lidar",
-        "Scripts\\Wiki_QR\\LIDAR.png",
+        "Scripts\\Wiki_QR\\0054.png",
         "Scripts\\AR_Code\\0054.png"
     ],
     "0055": [
@@ -612,7 +612,7 @@
         "\u00ab Logiciel libre \u00bb d\u00e9signe des logiciels qui respectent la libert\u00e9 des utilisateurs. En gros, cela veut dire que les utilisateurs ont la libert\u00e9 d'ex\u00e9cuter, copier, distribuer, \u00e9tudier, modifier et am\u00e9liorer ces logiciels.",
         "",
         "https://fr.wikipedia.org/wiki/Logiciel_libre",
-        "Scripts\\Wiki_QR\\Codes_et_logiciels_libres.png",
+        "Scripts\\Wiki_QR\\0055.png",
         "Scripts\\AR_Code\\0055.png"
     ],
     "0056": [
@@ -623,7 +623,7 @@
         "L'open content est un ensemble de travaux et de contenus cr\u00e9atifs que les chacun peut copier et diffuser, avec ou sans modification, commercialement ou non. Que cela soit des photos, des vid\u00e9os, etc.",
         "",
         "https://simple.wikipedia.org/wiki/Open_content",
-        "Scripts\\Wiki_QR\\Open_content.png",
+        "Scripts\\Wiki_QR\\0056.png",
         "Scripts\\AR_Code\\0056.png"
     ],
     "0057": [
@@ -634,7 +634,7 @@
         "la \u00ab Transition bibliographique \u00bb : basculer d'un catalogage par document \u00e0 un catalogage par entit\u00e9s (\u00e0 savoir des donn\u00e9es d'autorit\u00e9s \u2013 sur des personnes, des organisations, des concepts, des \u00e9v\u00e9nements, des \u0153uvres,\u2026 li\u00e9es entre elles par des relations logiques).",
         "",
         "https://fr.wikipedia.org/wiki/Transition_bibliographique",
-        "Scripts\\Wiki_QR\\Transition_bibliographique_(biblioth\u00e8ques).png",
+        "Scripts\\Wiki_QR\\0057.png",
         "Scripts\\AR_Code\\0057.png"
     ],
     "0058": [
@@ -645,7 +645,7 @@
         "Un algorithme est la description d'une suite d'\u00e9tapes permettant d'obtenir un r\u00e9sultat \u00e0 partir d'\u00e9l\u00e9ments fournis en entr\u00e9e. Par exemple, une recette de cuisine est un algorithme permettant d'obtenir un plat \u00e0 partir de ses ingr\u00e9dients!",
         "",
         "https://fr.wikipedia.org/wiki/Algorithme",
-        "Scripts\\Wiki_QR\\Algorithme.png",
+        "Scripts\\Wiki_QR\\0058.png",
         "Scripts\\AR_Code\\0058.png"
     ],
     "0059": [
@@ -656,7 +656,7 @@
         "un bon indicateur contient de bonnes donn\u00e9es, c'est-\u00e0-dire que les donn\u00e9es sont qualifi\u00e9es, ainsi qu'une forme adapt\u00e9e pour mieux repr\u00e9senter les donn\u00e9es avec une ergonomie efficace.",
         "",
         "https://fr.wikipedia.org/wiki/Indicateur",
-        "Scripts\\Wiki_QR\\Indicateur.png",
+        "Scripts\\Wiki_QR\\0059.png",
         "Scripts\\AR_Code\\0059.png"
     ],
     "0060": [
@@ -667,7 +667,7 @@
         "Le persona repr\u00e9sente la cible id\u00e9ale d'une entreprise ou d'une marque. L'entreprise est responsable de produire un personnage de fiction, le plus d\u00e9taill\u00e9 possible.",
         "",
         "https://fr.wikipedia.org/wiki/Persona",
-        "Scripts\\Wiki_QR\\Les_persona_(exemples_de_personnes_types).png",
+        "Scripts\\Wiki_QR\\0060.png",
         "Scripts\\AR_Code\\0060.png"
     ],
     "0061": [
@@ -678,7 +678,7 @@
         "Processus suivi pour conduire une exp\u00e9rience, succession d'op\u00e9rations \u00e0 ex\u00e9cuter pour accomplir une t\u00e2che d\u00e9termin\u00e9e ",
         "",
         "https://fr.wikipedia.org/wiki/Proc%C3%A9dure",
-        "Scripts\\Wiki_QR\\Proc\u00e9dure_.png",
+        "Scripts\\Wiki_QR\\0061.png",
         "Scripts\\AR_Code\\0061.png"
     ],
     "0062": [
@@ -689,7 +689,7 @@
         "Il s'agit alors, concr\u00e8tement, d'une technique ou d'une m\u00e9thode utilis\u00e9e pour r\u00e9aliser une t\u00e2che ou une succession de t\u00e2ches afin de parvenir \u00e0 un r\u00e9sultat donn\u00e9.",
         "",
         "https://fr.wikipedia.org/wiki/Processus",
-        "Scripts\\Wiki_QR\\processus_.png",
+        "Scripts\\Wiki_QR\\0062.png",
         "Scripts\\AR_Code\\0062.png"
     ],
     "0063": [
@@ -700,7 +700,7 @@
         "Le RACI est un outil qui sert \u00e0 d\u00e9terminer les r\u00f4les et responsabilit\u00e9s de chaque acteur d'un projet ou d'un processus.",
         "",
         "https://fr.wikipedia.org/wiki/RACI",
-        "Scripts\\Wiki_QR\\RACI.png",
+        "Scripts\\Wiki_QR\\0063.png",
         "Scripts\\AR_Code\\0063.png"
     ],
     "0064": [
@@ -711,7 +711,7 @@
         "Un DBMS est un database management system (syst\u00e8me de gestion de database). Il permet de d\u00e9finir, manipuler, r\u00e9cup\u00e9rer et g\u00e9rer les donn\u00e9es stock\u00e9es au sein de la BDD. ",
         "",
         "https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Base_de_donn\u00e9es_manag\u00e9e.png",
+        "Scripts\\Wiki_QR\\0064.png",
         "Scripts\\AR_Code\\0064.png"
     ],
     "0065": [
@@ -722,7 +722,7 @@
         "Il s'agit d'une m\u00e9thode d'identification des v\u00e9ritables besoins.",
         "",
         "https://fr.wikipedia.org/wiki/Besoin",
-        "Scripts\\Wiki_QR\\L\u2019expression_des_besoins(_des_usagers_envers_les_informaticiens).png",
+        "Scripts\\Wiki_QR\\0065.png",
         "Scripts\\AR_Code\\0065.png"
     ],
     "0066": [
@@ -733,7 +733,7 @@
         "Design thinking et m\u00e9thode agile permettant \u00e0 des projets Co cr\u00e9\u00e9s ou cog\u00e9r\u00e9s rapidement par de petites \u00e9quipes et ensuite l'User Centricity d\u00e9signe une analyse centr\u00e9e sur l'utilisateur.",
         "",
         "https://www.forbes.fr/management/lean-start-up-approche-agile-ou-design-thinking/",
-        "Scripts\\Wiki_QR\\Design_thinking,_m\u00e9thode_agile,_user_centricity_.png",
+        "Scripts\\Wiki_QR\\0066.png",
         "Scripts\\AR_Code\\0066.png"
     ],
     "0067": [
@@ -744,7 +744,7 @@
         "Le DataOps (data operations) est une m\u00e9thodologie automatis\u00e9e orient\u00e9e processus utilis\u00e9e par les \u00e9quipes d'analystes. La m\u00e9thodologie DataOps a pour objectif d'am\u00e9liorer la qualit\u00e9 de l'analyse de ces donn\u00e9es, tout en r\u00e9duisant les fuites de donn\u00e9es et le temps de traitement associ\u00e9.",
         "",
         "https://fr.wikipedia.org/wiki/DataOps",
-        "Scripts\\Wiki_QR\\Plomberie_des_donn\u00e9es_(dataops).png",
+        "Scripts\\Wiki_QR\\0067.png",
         "Scripts\\AR_Code\\0067.png"
     ],
     "0068": [
@@ -755,7 +755,7 @@
         "Le mappage des donn\u00e9es consiste \u00e0 mettre en correspondance les champs de plusieurs bases de donn\u00e9es. C'est la premi\u00e8re \u00e9tape pour faciliter la migration des donn\u00e9es, l'int\u00e9gration des donn\u00e9es et d'autres t\u00e2ches de gestion des donn\u00e9es.",
         "Num\u00e9rique pour la transformation des politiques culturelles et l'administration de la donn\u00e9e\n",
         "https://fr.wikipedia.org/wiki/Data_mapping",
-        "Scripts\\Wiki_QR\\Mapping.png",
+        "Scripts\\Wiki_QR\\0068.png",
         "Scripts\\AR_Code\\0068.png"
     ],
     "0069": [
@@ -766,7 +766,7 @@
         "D\u00e9doublonnage de donn\u00e9es est une technique de compression de donn\u00e9es qui implique la suppression des donn\u00e9es redondantes dans un syst\u00e8me. Elle s\u2019utilise pour sauvegarder des donn\u00e9es et pour transmettre des donn\u00e9es sur un r\u00e9seau.",
         "Num\u00e9rique pour la transformation des politiques culturelles et l'administration de la donn\u00e9e\n",
         "https://fr.wikipedia.org/wiki/Nettoyage_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\D\u00e9doublonnement_de_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0069.png",
         "Scripts\\AR_Code\\0069.png"
     ],
     "0070": [
@@ -777,7 +777,7 @@
         "Donn\u00e9es dont la description est normalis\u00e9e, ce qui permet de les lier, via leur identifiant universel de ressource, avec des donn\u00e9es provenant d\u2019autres sources et d\u00e9crites de la m\u00eame fa\u00e7on.",
         "",
         "https://fr.wikipedia.org/wiki/Linked_open_data",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_li\u00e9es.png",
+        "Scripts\\Wiki_QR\\0070.png",
         "Scripts\\AR_Code\\0070.png"
     ],
     "0071": [
@@ -788,7 +788,7 @@
         "L'agr\u00e9gation de donn\u00e9es est un type de processus d'exploration de donn\u00e9es et d'informations dans lequel les donn\u00e9es sont recherch\u00e9es, rassembl\u00e9es et pr\u00e9sent\u00e9es dans un format r\u00e9sum\u00e9 bas\u00e9 sur des rapports pour atteindre des objectifs ou processus commerciaux sp\u00e9cifiques et / ou effectuer une analyse humaine.",
         "",
         "https://fr.wikipedia.org/wiki/Qualit%C3%A9_des_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Agr\u00e9gation.png",
+        "Scripts\\Wiki_QR\\0071.png",
         "Scripts\\AR_Code\\0071.png"
     ],
     "0072": [
@@ -799,7 +799,7 @@
         "L'Alignement de donn\u00e9es est la fa\u00e7on dont les donn\u00e9es sont organis\u00e9es pour avoir un r\u00e9sultat fiable.",
         "",
         "https://fr.wikipedia.org/wiki/Nettoyage_de_donn%C3%A9es#Transformation_de_donn%C3%A9e",
-        "Scripts\\Wiki_QR\\alignement_de_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0072.png",
         "Scripts\\AR_Code\\0072.png"
     ],
     "0073": [
@@ -810,7 +810,7 @@
         "Un fichier \"\u00e0 plat\" facilite l'interop\u00e9rabilit\u00e9 entre diff\u00e9rentes bases de donn\u00e9es, par exemple les fichiers json ou csv.",
         "",
         "https://www.numerique.gouv.fr/uploads/Referentiel_General_Interoperabilite_V2.pdf",
-        "Scripts\\Wiki_QR\\Fichier_\u00ab_\u00e0_plat_\u00bb_json,csv,...png",
+        "Scripts\\Wiki_QR\\0073.png",
         "Scripts\\AR_Code\\0073.png"
     ],
     "0074": [
@@ -821,7 +821,7 @@
         "Le syst\u00e8me d'information (SI) est un \u00e9l\u00e9ment central d'une entreprise ou d'une organisation. Il permet aux diff\u00e9rents acteurs de v\u00e9hiculer des informations et de communiquer gr\u00e2ce \u00e0 un ensemble de ressources mat\u00e9rielles, humaines et logicielles.",
         "",
         "https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information",
-        "Scripts\\Wiki_QR\\Syst\u00e8me_d'information_(SI).png",
+        "Scripts\\Wiki_QR\\0074.png",
         "Scripts\\AR_Code\\0074.png"
     ],
     "0075": [
@@ -832,7 +832,7 @@
         "Le secteur culturel se distingue par une diversit\u00e9 de biens et services selon leur processus de production, leur mode de diffusion et de consommation. Les cadres \u00e9conomiques ou sociologiques qui permettent de le circonscrire sont multiples.",
         "",
         "https://fr.wikipedia.org/wiki/%C3%89conomie_de_la_culture_en_France",
-        "Scripts\\Wiki_QR\\secteur_culturel.png",
+        "Scripts\\Wiki_QR\\0075.png",
         "Scripts\\AR_Code\\0075.png"
     ],
     "0076": [
@@ -843,7 +843,7 @@
         "Cr\u00e9\u00e9 en janvier 2021, le Service du num\u00e9rique (SNUM) est un nouvelle \u00e9quipe en charge d'accompagner la transformation num\u00e9rique du monde culturel et de porter et acc\u00e9l\u00e9rer la transformation des pratiques des agents du minist\u00e8re.",
         "",
         "https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Contacter-le-Departement-du-numerique-pour-la-transformation-des-politiques-culturelles-et-de-l-administration-des-donnees",
-        "Scripts\\Wiki_QR\\SNUM.png",
+        "Scripts\\Wiki_QR\\0076.png",
         "Scripts\\AR_Code\\0076.png"
     ],
     "0077": [
@@ -854,7 +854,7 @@
         "Un \u00e9tablissement public est une personne morale de droit public disposant d'une autonomie administrative et financi\u00e8re afin de remplir une mission d'int\u00e9r\u00eat g\u00e9n\u00e9ral, pr\u00e9cis\u00e9ment d\u00e9finie. Il est plac\u00e9 sous le contr\u00f4le de la collectivit\u00e9 publique dont il d\u00e9pend (\u00c9tat, r\u00e9gion, d\u00e9partement ou commune).",
         "",
         "https://fr.wikipedia.org/wiki/%C3%89tablissement_public_(France)",
-        "Scripts\\Wiki_QR\\EP.png",
+        "Scripts\\Wiki_QR\\0077.png",
         "Scripts\\AR_Code\\0077.png"
     ],
     "0078": [
@@ -865,7 +865,7 @@
         "Service \u00e0 comp\u00e9tence nationale ou SCN est une cat\u00e9gorie particuli\u00e8re de service administratif, que l'on pourrait situer \u00e0 mi-chemin entre l'administration centrale et l'administration d\u00e9concentr\u00e9e.",
         "",
         "https://fr.wikipedia.org/wiki/Service_%C3%A0_comp%C3%A9tence_nationale",
-        "Scripts\\Wiki_QR\\SCN.png",
+        "Scripts\\Wiki_QR\\0078.png",
         "Scripts\\AR_Code\\0078.png"
     ],
     "0079": [
@@ -876,7 +876,7 @@
         "Le minist\u00e8re de la Culture a pour mission de promouvoir la cr\u00e9ation artistique dans toutes ses composantes et de permettre la d\u00e9mocratisation et la diffusion des \u0153uvres culturelles.",
         "",
         "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj9krq5jMj3AhUSgs4BHWd3BsgQFnoECAYQAQ&url=https%3A%2F%2Fwww.culture.gouv.fr%2Fcontent%2Fdownload%2F295347%2F3378042%3Fversion%3D15&usg=AOvVaw0aHu65EBFSeQUo2_6w7x9K",
-        "Scripts\\Wiki_QR\\L\u2019organisation_MC,_le_SNUM_et_les_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0079.png",
         "Scripts\\AR_Code\\0079.png"
     ],
     "0080": [
@@ -887,7 +887,7 @@
         "Donn\u00e9es dont l'identification, la description normalis\u00e9e, les conditions d'acc\u00e8s techniques ou juridiques et le type de licence facilitent leur mise \u00e0 disposition et leur exploitation par les personnes int\u00e9ress\u00e9es.",
         "",
         "https://fr.wikipedia.org/wiki/Fair_data",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_FAIR.png",
+        "Scripts\\Wiki_QR\\0080.png",
         "Scripts\\AR_Code\\0080.png"
     ],
     "0081": [
@@ -898,7 +898,7 @@
         "L'archivage est l'action d'archiver. C'est l'ensemble des techniques et moyens employ\u00e9s pour recueillir, classer, conserver et exploiter des documents jusqu'\u00e0 leur destruction \u00e9ventuelle.",
         "",
         "https://fr.wikipedia.org/wiki/Archivage",
-        "Scripts\\Wiki_QR\\Archivage.png",
+        "Scripts\\Wiki_QR\\0081.png",
         "Scripts\\AR_Code\\0081.png"
     ],
     "0082": [
@@ -909,7 +909,7 @@
         "Le Web s\u00e9mantique vise \u00e0 faciliter l'exploitation des donn\u00e9es structur\u00e9es, pour donner du sens au contenu des pages Web, en permettant leur interpr\u00e9tation par des machines.",
         "",
         "https://fr.wikipedia.org/wiki/Web_s%C3%A9mantique",
-        "Scripts\\Wiki_QR\\Web_s\u00e9mantique.png",
+        "Scripts\\Wiki_QR\\0082.png",
         "Scripts\\AR_Code\\0082.png"
     ],
     "0083": [
@@ -920,7 +920,7 @@
         "L'OSINT ou \u00ab Open Source Intelligence \u00bb signifie en fran\u00e7ais \u00ab Renseignement de Source Ouverte \u00bb. Il s'agit d'une information accessible \u00e0 tous et non classifi\u00e9e.",
         "",
         "https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes",
-        "Scripts\\Wiki_QR\\OSINT.png",
+        "Scripts\\Wiki_QR\\0083.png",
         "Scripts\\AR_Code\\0083.png"
     ],
     "0084": [
@@ -931,7 +931,7 @@
         "Les outils d'ETL, est un proc\u00e9d\u00e9 informatique permettant d'effectuer des synchronisations massives d'informations entre bases de donn\u00e9es,",
         "",
         "https://fr.wikipedia.org/wiki/Extract-transform-load",
-        "Scripts\\Wiki_QR\\ETL.png",
+        "Scripts\\Wiki_QR\\0084.png",
         "Scripts\\AR_Code\\0084.png"
     ],
     "0085": [
@@ -942,7 +942,7 @@
         "un mod\u00e8le de donn\u00e9es est un mod\u00e8le qui d\u00e9crit la mani\u00e8re dont sont repr\u00e9sent\u00e9es les donn\u00e9es dans une organisation m\u00e9tier, un syst\u00e8me d'information ou une base de donn\u00e9es.",
         "",
         "https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Mod\u00e8le_de_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0085.png",
         "Scripts\\AR_Code\\0085.png"
     ],
     "0086": [
@@ -953,7 +953,7 @@
         "Par Produire ou collecte de donn\u00e9es, on entend l'approche syst\u00e9matique qui consiste \u00e0 r\u00e9unir et \u00e0 mesurer des informations en provenance de sources vari\u00e9es, afin d'obtenir une vue compl\u00e8te et pr\u00e9cise d'un domaine d'int\u00e9r\u00eat.",
         "",
         "https://www.francenum.gouv.fr/comprendre-le-numerique/de-la-collecte-de-donnees-la-production-dinformation-open-data",
-        "Scripts\\Wiki_QR\\Produire_ou_collecter_les_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0086.png",
         "Scripts\\AR_Code\\0086.png"
     ],
     "0087": [
@@ -964,7 +964,7 @@
         "Donn\u00e9es recueillies sur un sujet \u00e0 partir d'observations ou de mesures, et qui n'ont pas encore \u00e9t\u00e9 trait\u00e9es. Donn\u00e9es recueillies sur un sujet \u00e0 partir d'observations ou de mesures, et qui n'ont pas encore \u00e9t\u00e9 trait\u00e9es.",
         "",
         "https://fr.wikipedia.org/wiki/Donn%C3%A9es_brutes",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_brutes.png",
+        "Scripts\\Wiki_QR\\0087.png",
         "Scripts\\AR_Code\\0087.png"
     ],
     "0088": [
@@ -975,7 +975,7 @@
         "Les donn\u00e9es sont collect\u00e9es et souvent retravaill\u00e9es pour ne recueillir que des donn\u00e9es fiables. Ensuite, un mod\u00e8le d'analyse est choisi, les r\u00e9sultats en sont \u00e9tudi\u00e9s. Enfin, les r\u00e9sultats sont formalis\u00e9s et diffus\u00e9s. ",
         "",
         "https://fr.wikipedia.org/wiki/Exploration_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_retravaill\u00e9es_.png",
+        "Scripts\\Wiki_QR\\0088.png",
         "Scripts\\AR_Code\\0088.png"
     ],
     "0089": [
@@ -986,7 +986,7 @@
         " Le logiciel Microsoft Excel est un tableur \u00e9lectronique. Un tableur permet d'effectuer des calculs de mani\u00e8re rapide et pr\u00e9cise. La feuille \u00e9lectronique de nombres produite par Excel est appel\u00e9e une feuille de calcul.",
         "",
         "https://fr.wikipedia.org/wiki/Microsoft_Excel",
-        "Scripts\\Wiki_QR\\Excel,_Calc_(Tableur_bureautique_).png",
+        "Scripts\\Wiki_QR\\0089.png",
         "Scripts\\AR_Code\\0089.png"
     ],
     "0090": [
@@ -997,7 +997,7 @@
         " Les donn\u00e9es quantitatives fournissent les chiffres qui valident les points g\u00e9n\u00e9raux de votre \u00e9tude alors que les donn\u00e9es qualitatives apportent les d\u00e9tails et le contexte pour en comprendre toutes les implications.",
         "",
         "https://fr.wikipedia.org/wiki/M%C3%A9thodes_quantitatives",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_qualitatives___quantitatives.png",
+        "Scripts\\Wiki_QR\\0090.png",
         "Scripts\\AR_Code\\0090.png"
     ],
     "0091": [
@@ -1008,7 +1008,7 @@
         "L'analyse des donn\u00e9es est un processus qui permet de transformer une masse d'informations en information structur\u00e9e. L'analyse de donn\u00e9es est r\u00e9volutionn\u00e9e par l'\u00e9mergence du ph\u00e9nom\u00e8ne big data.",
         "",
         "https://fr.wikipedia.org/wiki/Analyse_des_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Analyse.png",
+        "Scripts\\Wiki_QR\\0091.png",
         "Scripts\\AR_Code\\0091.png"
     ],
     "0092": [
@@ -1019,7 +1019,7 @@
         "le Master Data Management (MDM) ou Gestion des Donn\u00e9es de R\u00e9f\u00e9rence (GDR) est l'ensemble des outils permettant de stocker, g\u00e9rer et diffuser les donn\u00e9es r\u00e9f\u00e9rentielles au sein d'une entreprise.",
         "",
         "https://fr.wikipedia.org/wiki/Gestion_des_donn%C3%A9es_de_r%C3%A9f%C3%A9rence",
-        "Scripts\\Wiki_QR\\MDM.png",
+        "Scripts\\Wiki_QR\\0092.png",
         "Scripts\\AR_Code\\0092.png"
     ],
     "0093": [
@@ -1030,7 +1030,7 @@
         "Un traitement de donn\u00e9es est d\u00e9fini comme toute op\u00e9ration ou tout ensemble d'op\u00e9rations, effectu\u00e9es ou non \u00e0 l'aide d'un proc\u00e9d\u00e9 automatis\u00e9, appliqu\u00e9es \u00e0 des donn\u00e9es ou ensembles de donn\u00e9es \u00e0 caract\u00e8re personnel. Cela peut-\u00eatre : Une collecte de donn\u00e9es. La conservation de donn\u00e9es.",
         "",
         "https://fr.wikipedia.org/wiki/Traitement_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Traiter_les_donn\u00e9es.png",
+        "Scripts\\Wiki_QR\\0093.png",
         "Scripts\\AR_Code\\0093.png"
     ],
     "0094": [
@@ -1041,7 +1041,7 @@
         "Un r\u00e9seau neuronal est un ensemble de neurones qui prennent des informations en entr\u00e9e et, en conjonction avec des informations provenant d'autres n\u0153uds, d\u00e9veloppent des sorties sans r\u00e8gles programm\u00e9es. Essentiellement, ils r\u00e9solvent les probl\u00e8mes par essais et erreurs.",
         "",
         "https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels",
-        "Scripts\\Wiki_QR\\R\u00e9seau_de_neurones.png",
+        "Scripts\\Wiki_QR\\0094.png",
         "Scripts\\AR_Code\\0094.png"
     ],
     "0095": [
@@ -1052,7 +1052,7 @@
         "L'algorithmique est l'\u00e9tude et la production de r\u00e8gles et techniques qui sont impliqu\u00e9es dans la d\u00e9finition et la conception d'algorithmes, c'est-\u00e0-dire de processus syst\u00e9matiques de r\u00e9solution d'un probl\u00e8me permettant de d\u00e9crire pr\u00e9cis\u00e9ment des \u00e9tapes pour r\u00e9soudre un probl\u00e8me algorithmique.",
         "",
         "https://fr.wikipedia.org/wiki/Algorithmique",
-        "Scripts\\Wiki_QR\\Le_traitement_algorithmique.png",
+        "Scripts\\Wiki_QR\\0095.png",
         "Scripts\\AR_Code\\0095.png"
     ],
     "0096": [
@@ -1063,7 +1063,7 @@
         "L'enrichissement des donn\u00e9es consiste \u00e0 compl\u00e9ter les donn\u00e9es, \u00e0 les am\u00e9liorer et \u00e0 les structurer, afin qu'elles fournissent des informations pr\u00e9cieuses.",
         "",
         "https://fr.wikipedia.org/wiki/Enrichissement_de_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\Enrichessement_de_donn\u00e9es_.png",
+        "Scripts\\Wiki_QR\\0096.png",
         "Scripts\\AR_Code\\0096.png"
     ],
     "0097": [
@@ -1074,7 +1074,7 @@
         "Les donn\u00e9es non structur\u00e9es ne sont pas organis\u00e9es dans un format qui permet d'y acc\u00e9der et de les traiter plus facilement. Les donn\u00e9es structur\u00e9es sont peu ou prou le contraire des donn\u00e9es non structur\u00e9es : elles ont \u00e9t\u00e9 reformat\u00e9es, r\u00e9organis\u00e9s et puis Les donn\u00e9es semi-structur\u00e9es constituent une forme interm\u00e9diaire.",
         "",
         "https://fr.wikipedia.org/wiki/Informations_non_structur%C3%A9es",
-        "Scripts\\Wiki_QR\\Donn\u00e9es_structur\u00e9es,_non_structur\u00e9es,_semi-structur\u00e9es.png",
+        "Scripts\\Wiki_QR\\0097.png",
         "Scripts\\AR_Code\\0097.png"
     ],
     "0098": [
@@ -1085,7 +1085,7 @@
         "La reconnaissance d'entit\u00e9 nomm\u00e9e (NER) fait r\u00e9f\u00e9rence \u00e0 une t\u00e2che d'extraction de donn\u00e9es qui est charg\u00e9e de rechercher, de stocker et de trier le contenu textuel dans des cat\u00e9gories par d\u00e9faut telles que les noms de personnes, d'organisations, de lieux, d'expressions de temps, de quantit\u00e9s, de valeurs mon\u00e9taires et de pourcentages.",
         "",
         "https://fr.wikipedia.org/wiki/Reconnaissance_d%27entit%C3%A9s_nomm%C3%A9es",
-        "Scripts\\Wiki_QR\\Reconnaissance_d'entit\u00e9s_nomm\u00e9es.png",
+        "Scripts\\Wiki_QR\\0098.png",
         "Scripts\\AR_Code\\0098.png"
     ],
     "0099": [
@@ -1096,7 +1096,7 @@
         "Le redressement vise \u00e0 corriger l'\u00e9chantillon enqu\u00eat\u00e9 de ses \u00e9ventuelles d\u00e9formations par rapport \u00e0 la population cible de l'enqu\u00eate.",
         "",
         "https://travail-emploi.gouv.fr/IMG/pdf/note_methodologie_redressement_SUMER2010.pdf",
-        "Scripts\\Wiki_QR\\Redressement_donn\u00e9es_statistiques.png",
+        "Scripts\\Wiki_QR\\0099.png",
         "Scripts\\AR_Code\\0099.png"
     ],
     "0100": [
@@ -1107,7 +1107,7 @@
         " Mode d'\u00e9criture ou de lecture de donn\u00e9es se faisant au moyen d'adresses qui rep\u00e8rent l'emplacement de ces donn\u00e9es. ",
         "",
         "https://fr.wikipedia.org/wiki/Acc%C3%A8s_direct",
-        "Scripts\\Wiki_QR\\acc\u00e8s_direct_.png",
+        "Scripts\\Wiki_QR\\0100.png",
         "Scripts\\AR_Code\\0100.png"
     ],
     "0101": [
@@ -1118,7 +1118,7 @@
         " Acc\u00e8s \u00e0 l'internet par des moyens de radiocommunication. ",
         "",
         "https://fr.wikipedia.org/wiki/Wi-Fi",
-        "Scripts\\Wiki_QR\\acc\u00e8s_sans_fil_\u00e0_l'internet_.png",
+        "Scripts\\Wiki_QR\\0101.png",
         "Scripts\\AR_Code\\0101.png"
     ],
     "0102": [
@@ -1129,7 +1129,7 @@
         " Mode d'\u00e9criture ou de lecture de donn\u00e9es, effectu\u00e9es en suivant un ordre pr\u00e9\u00e9tabli de rangement. ",
         "",
         "https://fr.wikipedia.org/wiki/Acc%C3%A8s_s%C3%A9quentiel",
-        "Scripts\\Wiki_QR\\acc\u00e8s_s\u00e9quentiel_.png",
+        "Scripts\\Wiki_QR\\0102.png",
         "Scripts\\AR_Code\\0102.png"
     ],
     "0103": [
@@ -1140,7 +1140,7 @@
         " Le fait d'engager la consultation d'un document sur un serveur. ",
         "",
         "https://fr.wikipedia.org/wiki/Acc%C3%A8s_%C3%A0_Internet",
-        "Scripts\\Wiki_QR\\acc\u00e8s.png",
+        "Scripts\\Wiki_QR\\0103.png",
         "Scripts\\AR_Code\\0103.png"
     ],
     "0104": [
@@ -1151,7 +1151,7 @@
         " Accord \tinternational de coop\u00e9ration p\u00e9nale qui permet de prot\u00e9ger les \tdonn\u00e9es personnelles en encadrant leur exportation \tet \tleur exploitation. ",
         "",
         "https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es",
-        "Scripts\\Wiki_QR\\accord_parapluie_de_protection_des_donn\u00e9es_personnelles_.png",
+        "Scripts\\Wiki_QR\\0104.png",
         "Scripts\\AR_Code\\0104.png"
     ],
     "0105": [
@@ -1162,7 +1162,7 @@
         " Proc\u00e9dure permettant d'attribuer \u00e0 une personne ou \u00e0 une entit\u00e9 des droits d'acc\u00e8s \u00e0 des ressources ou \u00e0 des services \u00e9lectroniques ",
         "",
         "https://fr.wiktionary.org/wiki/accr%C3%A9ditation",
-        "Scripts\\Wiki_QR\\accr\u00e9ditation.png",
+        "Scripts\\Wiki_QR\\0105.png",
         "Scripts\\AR_Code\\0105.png"
     ],
     "0106": [
@@ -1173,10 +1173,21 @@
         " Actif constitu\u00e9 par des donn\u00e9es num\u00e9riques, dont la propri\u00e9t\u00e9 ou le droit d\u2019usage est un \u00e9l\u00e9ment du patrimoine d\u2019une personne physique ou morale. ",
         "",
         "https://fr.wikipedia.org/wiki/Actif_num%C3%A9rique",
-        "Scripts\\Wiki_QR\\actif_num\u00e9rique_.png",
+        "Scripts\\Wiki_QR\\0106.png",
         "Scripts\\AR_Code\\0106.png"
     ],
     "0107": [
+        " Informatique ",
+        "additif",
+        "",
+        "",
+        " Module compl\u00e9mentaire d'un logiciel ou d'un mat\u00e9riel existant, qui lui apporte des am\u00e9liorations ou des extensions et ne peut fonctionner qu'avec lui. ",
+        "",
+        "",
+        "Scripts\\Wiki_QR\\0107.png",
+        "Scripts\\AR_Code\\0107.png"
+    ],
+    "0108": [
         " T\u00e9l\u00e9communications-Informatique/Internet ",
         "administrateur, -trice de site, de serveur ",
         "",
@@ -1184,10 +1195,10 @@
         " Personne charg\u00e9e de la maintenance et du suivi d'un site ou d'un serveur sur la toile. ",
         "",
         "https://fr.wikipedia.org/wiki/Webmestre",
-        "Scripts\\Wiki_QR\\administrateur,_-trice_de_site,_de_serveur_.png",
-        "Scripts\\AR_Code\\0107.png"
+        "Scripts\\Wiki_QR\\0108.png",
+        "Scripts\\AR_Code\\0108.png"
     ],
-    "0108": [
+    "0109": [
         " Informatique ",
         "adressage dispers\u00e9 ",
         "",
@@ -1195,10 +1206,10 @@
         " Technique logicielle de gestion de donn\u00e9es faisant appel \u00e0 une fonction de hachage sur chaque donn\u00e9e pour calculer l'emplacement o\u00f9 doit \u00eatre rang\u00e9e cette donn\u00e9e. ",
         "",
         "https://fr.wikipedia.org/wiki/Table_de_hachage",
-        "Scripts\\Wiki_QR\\adressage_dispers\u00e9_.png",
-        "Scripts\\AR_Code\\0108.png"
+        "Scripts\\Wiki_QR\\0109.png",
+        "Scripts\\AR_Code\\0109.png"
     ],
-    "0109": [
+    "0110": [
         " Informatique-T\u00e9l\u00e9communications ",
         "adresse de courrier \u00e9lectronique ",
         "",
@@ -1206,10 +1217,10 @@
         " Libell\u00e9 permettant l'identification d'un utilisateur de messagerie \u00e9lectronique et l'acheminement des messages qui lui sont destin\u00e9s. ",
         "",
         "https://fr.wikipedia.org/wiki/Adresse_%C3%A9lectronique",
-        "Scripts\\Wiki_QR\\adresse_de_courrier_\u00e9lectronique_.png",
-        "Scripts\\AR_Code\\0109.png"
+        "Scripts\\Wiki_QR\\0110.png",
+        "Scripts\\AR_Code\\0110.png"
     ],
-    "0110": [
+    "0111": [
         " Informatique ",
         "adresse informatique ",
         "",
@@ -1217,10 +1228,10 @@
         " Caract\u00e8re ou groupe de caract\u00e8res ayant pour fonction de localiser une information dans une m\u00e9moire ou d'indiquer le destinataire d'un message. ",
         "",
         "https://fr.wikipedia.org/wiki/Adresse",
-        "Scripts\\Wiki_QR\\adresse_informatique_.png",
-        "Scripts\\AR_Code\\0110.png"
+        "Scripts\\Wiki_QR\\0111.png",
+        "Scripts\\AR_Code\\0111.png"
     ],
-    "0111": [
+    "0112": [
         " T\u00e9l\u00e9communications-Informatique/Internet ",
         "adresse universelle ",
         "",
@@ -1228,10 +1239,10 @@
         " D\u00e9nomination unique \u00e0 caract\u00e8re universel qui permet de localiser une ressource ou un document sur l'internet, et qui indique la m\u00e9thode pour y acc\u00e9der, le nom du serveur et le chemin \u00e0 l'int\u00e9rieur du serveur. ",
         "",
         "https://fr.wikipedia.org/wiki/Uniform_Resource_Locator",
-        "Scripts\\Wiki_QR\\adresse_universelle_.png",
-        "Scripts\\AR_Code\\0111.png"
+        "Scripts\\Wiki_QR\\0112.png",
+        "Scripts\\AR_Code\\0112.png"
     ],
-    "0112": [
+    "0113": [
         " Informatique ",
         "affichage",
         "",
@@ -1239,10 +1250,10 @@
         " Repr\u00e9sentation d'un ensemble de donn\u00e9es sur un \u00e9cran. ",
         "",
         "https://fr.wikipedia.org/wiki/Fen%C3%AAtre_(informatique)",
-        "Scripts\\Wiki_QR\\affichage.png",
-        "Scripts\\AR_Code\\0112.png"
+        "Scripts\\Wiki_QR\\0113.png",
+        "Scripts\\AR_Code\\0113.png"
     ],
-    "0113": [
+    "0114": [
         " Informatique ",
         "agenda \u00e9lectronique ",
         "",
@@ -1250,10 +1261,10 @@
         " Logiciel pour la gestion de donn\u00e9es personnelles telles que rendez-vous, adresses, etc.\u00a0",
         "",
         "https://fr.wikipedia.org/wiki/Organisateur_%C3%A9lectronique",
-        "Scripts\\Wiki_QR\\agenda_\u00e9lectronique_.png",
-        "Scripts\\AR_Code\\0113.png"
+        "Scripts\\Wiki_QR\\0114.png",
+        "Scripts\\AR_Code\\0114.png"
     ],
-    "0114": [
+    "0115": [
         " Informatique/Internet ",
         "agent",
         "",
@@ -1261,10 +1272,10 @@
         " Logiciel envoy\u00e9 sur un r\u00e9seau pour effectuer une t\u00e2che \u00e0 la place de l'utilisateur et sans son intervention. ",
         "",
         "https://fr.wikipedia.org/wiki/Agent_logiciel",
-        "Scripts\\Wiki_QR\\agent.png",
-        "Scripts\\AR_Code\\0114.png"
+        "Scripts\\Wiki_QR\\0115.png",
+        "Scripts\\AR_Code\\0115.png"
     ],
-    "0115": [
+    "0116": [
         " Informatique/Internet ",
         "aide au d\u00e9pannage ",
         "",
@@ -1272,10 +1283,10 @@
         " Protocole d'assistance propos\u00e9 \u00e0 l'utilisateur d\u2019un logiciel ou d'un mat\u00e9riel pour lui permettre de r\u00e9soudre une difficult\u00e9 d'emploi ou de faire face \u00e0 une d\u00e9faillance technique. ",
         "",
         "https://fr.wikipedia.org/wiki/Aide_au_d%C3%A9pannage",
-        "Scripts\\Wiki_QR\\aide_au_d\u00e9pannage_.png",
-        "Scripts\\AR_Code\\0115.png"
+        "Scripts\\Wiki_QR\\0116.png",
+        "Scripts\\AR_Code\\0116.png"
     ],
-    "0116": [
+    "0117": [
         " Informatique ",
         "algorithmique",
         "",
@@ -1283,10 +1294,10 @@
         " \u00c9tude de la r\u00e9solution de probl\u00e8mes par la mise en \u0153uvre de suites d'op\u00e9rations \u00e9l\u00e9mentaires selon un processus d\u00e9fini aboutissant \u00e0 une solution. ",
         "",
         "https://fr.wikipedia.org/wiki/Algorithmique",
-        "Scripts\\Wiki_QR\\algorithmique.png",
-        "Scripts\\AR_Code\\0116.png"
+        "Scripts\\Wiki_QR\\0117.png",
+        "Scripts\\AR_Code\\0117.png"
     ],
-    "0117": [
+    "0118": [
         " Informatique ",
         "amorce",
         "",
@@ -1294,10 +1305,10 @@
         " Programme n\u00e9cessaire \u00e0 la mise en marche d'un ordinateur, et ex\u00e9cut\u00e9 \u00e0 chaque mise sous tension ou r\u00e9initialisation. ",
         "",
         "https://fr.wikipedia.org/wiki/Amorce",
-        "Scripts\\Wiki_QR\\amorce.png",
-        "Scripts\\AR_Code\\0117.png"
+        "Scripts\\Wiki_QR\\0118.png",
+        "Scripts\\AR_Code\\0118.png"
     ],
-    "0118": [
+    "0119": [
         " Informatique ",
         "amorcer",
         "",
@@ -1305,10 +1316,10 @@
         " Mettre en marche un ordinateur en provoquant l'ex\u00e9cution de l'amorce. ",
         "",
         "https://fr.wikipedia.org/wiki/Amor%C3%A7age",
-        "Scripts\\Wiki_QR\\amorcer.png",
-        "Scripts\\AR_Code\\0118.png"
+        "Scripts\\Wiki_QR\\0119.png",
+        "Scripts\\AR_Code\\0119.png"
     ],
-    "0119": [
+    "0120": [
         " Informatique/Internet ",
         "ancre",
         "",
@@ -1316,10 +1327,10 @@
         " Zone d\u00e9termin\u00e9e d'un document servant de d\u00e9part ou d'arriv\u00e9e \u00e0 un lien hypertextuel avec une autre zone de ce document ou avec une zone d\u00e9termin\u00e9e d'un autre document. ",
         "",
         "https://fr.wikipedia.org/wiki/Aide:Lien_ancr%C3%A9_(wikicode)",
-        "Scripts\\Wiki_QR\\ancre.png",
-        "Scripts\\AR_Code\\0119.png"
+        "Scripts\\Wiki_QR\\0120.png",
+        "Scripts\\AR_Code\\0120.png"
     ],
-    "0120": [
+    "0121": [
         " T\u00e9l\u00e9communications-Informatique/Internet ",
         "anneau de sites ",
         "",
@@ -1327,10 +1338,10 @@
         " Ensemble de sites sur la toile, consacr\u00e9s \u00e0 des sujets apparent\u00e9s et ayant entre eux des liens privil\u00e9gi\u00e9s. ",
         "",
         "https://fr.wikipedia.org/wiki/Webring",
-        "Scripts\\Wiki_QR\\anneau_de_sites_.png",
-        "Scripts\\AR_Code\\0120.png"
+        "Scripts\\Wiki_QR\\0121.png",
+        "Scripts\\AR_Code\\0121.png"
     ],
-    "0121": [
+    "0122": [
         " Informatique ",
         "ant\u00e9m\u00e9moire",
         "",
@@ -1338,10 +1349,10 @@
         " M\u00e9moire tr\u00e8s rapide, intercal\u00e9e entre le processeur et la m\u00e9moire principale, que l'ordinateur consulte avant d'interroger la m\u00e9moire principale et qui, fournissant les parties de programme et les donn\u00e9es les plus utilis\u00e9es dans le traitement en cours, permet de r\u00e9duire la dur\u00e9e de celui-ci. ",
         "",
         "https://fr.wikipedia.org/wiki/M%C3%A9moire_cache",
-        "Scripts\\Wiki_QR\\ant\u00e9m\u00e9moire.png",
-        "Scripts\\AR_Code\\0121.png"
+        "Scripts\\Wiki_QR\\0122.png",
+        "Scripts\\AR_Code\\0122.png"
     ],
-    "0122": [
+    "0123": [
         " Informatique ",
         "anticr\u00e8nelage",
         "",
@@ -1349,10 +1360,10 @@
         " Pr\u00e9vention du cr\u00e8nelage par un proc\u00e9d\u00e9 qui consiste \u00e0 lisser les lignes et les contours d'une image. ",
         "",
         "https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage",
-        "Scripts\\Wiki_QR\\anticr\u00e8nelage.png",
-        "Scripts\\AR_Code\\0122.png"
+        "Scripts\\Wiki_QR\\0123.png",
+        "Scripts\\AR_Code\\0123.png"
     ],
-    "0123": [
+    "0124": [
         " Informatique ",
         "appariement de formes ",
         "",
@@ -1360,10 +1371,10 @@
         " Mise en correspondance de formes selon un ensemble pr\u00e9d\u00e9fini de r\u00e8gles ou de crit\u00e8res. ",
         "",
         "https://fr.wikipedia.org/wiki/Reconnaissance_de_formes",
-        "Scripts\\Wiki_QR\\appariement_de_formes_.png",
-        "Scripts\\AR_Code\\0123.png"
+        "Scripts\\Wiki_QR\\0124.png",
+        "Scripts\\AR_Code\\0124.png"
     ],
-    "0124": [
+    "0125": [
         " Informatique-\u00c9conomie et gestion d'entreprise ",
         "application phare ",
         "",
@@ -1371,10 +1382,10 @@
         " Application informatique innovante dont la popularit\u00e9 est imm\u00e9diate aupr\u00e8s des utilisateurs. ",
         "",
         "https://fr.wikipedia.org/wiki/Application_phare",
-        "Scripts\\Wiki_QR\\application_phare_.png",
-        "Scripts\\AR_Code\\0124.png"
+        "Scripts\\Wiki_QR\\0125.png",
+        "Scripts\\AR_Code\\0125.png"
     ],
-    "0125": [
+    "0126": [
         " Informatique/Internet ",
         "appliquette",
         "",
@@ -1382,10 +1393,10 @@
         " Petite application ind\u00e9pendante du mat\u00e9riel et du logiciel utilis\u00e9s, qui est t\u00e9l\u00e9charg\u00e9e depuis un serveur de la toile et qui est ex\u00e9cut\u00e9e localement au sein d'un logiciel de navigation. ",
         "",
         "https://fr.wikipedia.org/wiki/Applet",
-        "Scripts\\Wiki_QR\\appliquette.png",
-        "Scripts\\AR_Code\\0125.png"
+        "Scripts\\Wiki_QR\\0126.png",
+        "Scripts\\AR_Code\\0126.png"
     ],
-    "0126": [
+    "0127": [
         " Informatique-T\u00e9l\u00e9communications ",
         "apportez votre \u00e9quipement personnel de communication ",
         "",
@@ -1393,10 +1404,10 @@
         " Se dit de l'utilisation, dans un cadre professionnel, d'un mat\u00e9riel personnel tel qu'un t\u00e9l\u00e9phone multifonction ou un ordinateur. ",
         "",
         "https://fr.wikipedia.org/wiki/Bring_your_own_device",
-        "Scripts\\Wiki_QR\\apportez_votre_\u00e9quipement_personnel_de_communication_.png",
-        "Scripts\\AR_Code\\0126.png"
+        "Scripts\\Wiki_QR\\0127.png",
+        "Scripts\\AR_Code\\0127.png"
     ],
-    "0127": [
+    "0128": [
         " Informatique ",
         "apprentissage automatique ",
         "",
@@ -1404,10 +1415,10 @@
         " Processus par lequel un algorithme \u00e9value et am\u00e9liore ses performances sans l\u2019intervention d\u2019un programmeur, en r\u00e9p\u00e9tant son ex\u00e9cution sur des jeux de donn\u00e9es jusqu\u2019\u00e0 obtenir, de mani\u00e8re r\u00e9guli\u00e8re, des r\u00e9sultats pertinents. ",
         "",
         "https://fr.wikipedia.org/wiki/Apprentissage_automatique",
-        "Scripts\\Wiki_QR\\apprentissage_automatique_.png",
-        "Scripts\\AR_Code\\0127.png"
+        "Scripts\\Wiki_QR\\0128.png",
+        "Scripts\\AR_Code\\0128.png"
     ],
-    "0128": [
+    "0129": [
         " Informatique ",
         "apprentissage non supervis\u00e9 ",
         "",
@@ -1415,10 +1426,10 @@
         " Apprentissage automatique dans lequel l\u2019algorithme utilise un jeu de donn\u00e9es brutes et obtient un r\u00e9sultat en se fondant sur la d\u00e9tection de similarit\u00e9s entre certaines de ces donn\u00e9es. ",
         "",
         "https://fr.wikipedia.org/wiki/Apprentissage_non_supervis%C3%A9",
-        "Scripts\\Wiki_QR\\apprentissage_non_supervis\u00e9_.png",
-        "Scripts\\AR_Code\\0128.png"
+        "Scripts\\Wiki_QR\\0129.png",
+        "Scripts\\AR_Code\\0129.png"
     ],
-    "0129": [
+    "0130": [
         " Informatique ",
         "apprentissage par renforcement ",
         "",
@@ -1426,10 +1437,10 @@
         " Apprentissage automatique dans lequel un programme ext\u00e9rieur \u00e9value positivement ou n\u00e9gativement les r\u00e9sultats successifs de l\u2019algorithme, l\u2019accumulation des r\u00e9sultats permettant \u00e0 l\u2019algorithme d\u2019am\u00e9liorer ses performances jusqu\u2019\u00e0 ce qu\u2019il atteigne un objectif pr\u00e9alablement fix\u00e9. ",
         "",
         "https://fr.wikipedia.org/wiki/Apprentissage_par_renforcement",
-        "Scripts\\Wiki_QR\\apprentissage_par_renforcement_.png",
-        "Scripts\\AR_Code\\0129.png"
+        "Scripts\\Wiki_QR\\0130.png",
+        "Scripts\\AR_Code\\0130.png"
     ],
-    "0130": [
+    "0131": [
         " Informatique ",
         "apprentissage profond ",
         "",
@@ -1437,10 +1448,10 @@
         " Apprentissage automatique qui utilise un r\u00e9seau de neurones artificiels compos\u00e9 d\u2019un grand nombre de couches dont chacune correspond \u00e0 un niveau croissant de complexit\u00e9 dans le traitement et l\u2019interpr\u00e9tation des donn\u00e9es. ",
         "",
         "https://fr.wikipedia.org/wiki/Apprentissage_profond",
-        "Scripts\\Wiki_QR\\apprentissage_profond_.png",
-        "Scripts\\AR_Code\\0130.png"
+        "Scripts\\Wiki_QR\\0131.png",
+        "Scripts\\AR_Code\\0131.png"
     ],
-    "0131": [
+    "0132": [
         " Informatique ",
         "apprentissage supervis\u00e9 ",
         "",
@@ -1448,10 +1459,10 @@
         " Apprentissage automatique dans lequel l\u2019algorithme s\u2019entra\u00eene \u00e0 une t\u00e2che d\u00e9termin\u00e9e en utilisant un jeu de donn\u00e9es assorties chacune d\u2019une annotation indiquant le r\u00e9sultat attendu. ",
         "",
         "https://fr.wikipedia.org/wiki/Apprentissage_supervis%C3%A9",
-        "Scripts\\Wiki_QR\\apprentissage_supervis\u00e9_.png",
-        "Scripts\\AR_Code\\0131.png"
+        "Scripts\\Wiki_QR\\0132.png",
+        "Scripts\\AR_Code\\0132.png"
     ],
-    "0132": [
+    "0133": [
         " Informatique ",
         "ardoise \u00e9lectronique ",
         "",
@@ -1459,10 +1470,10 @@
         " Ordinateur portatif sans clavier dans lequel on fait entrer les donn\u00e9es par saisie directe sur l'\u00e9cran. ",
         "",
         "https://fr.wikipedia.org/wiki/Tablette_tactile",
-        "Scripts\\Wiki_QR\\ardoise_\u00e9lectronique_.png",
-        "Scripts\\AR_Code\\0132.png"
+        "Scripts\\Wiki_QR\\0133.png",
+        "Scripts\\AR_Code\\0133.png"
     ],
-    "0133": [
+    "0134": [
         " Informatique/Internet ",
         "arri\u00e8re-guichet",
         "",
@@ -1470,10 +1481,10 @@
         " Support informatique et logistique d'un ou de plusieurs guichets. ",
         "",
         "https://fr.wikipedia.org/wiki/Back_office",
-        "Scripts\\Wiki_QR\\arri\u00e8re-guichet.png",
-        "Scripts\\AR_Code\\0133.png"
+        "Scripts\\Wiki_QR\\0134.png",
+        "Scripts\\AR_Code\\0134.png"
     ],
-    "0134": [
+    "0135": [
         " Informatique ",
         "arri\u00e8re-plan (T\u00e2che de fond)",
         "",
@@ -1481,10 +1492,10 @@
         " Qualifie un traitement informatique non prioritaire qui est ex\u00e9cut\u00e9 lorsque les ressources ne sont pas affect\u00e9es \u00e0 un programme en temps r\u00e9el ou \u00e0 des programmes prioritaires. ",
         "",
         "https://fr.wikipedia.org/wiki/T%C3%A2che_de_fond",
-        "Scripts\\Wiki_QR\\arri\u00e8re-plan_(T\u00e2che_de_fond).png",
-        "Scripts\\AR_Code\\0134.png"
+        "Scripts\\Wiki_QR\\0135.png",
+        "Scripts\\AR_Code\\0135.png"
     ],
-    "0135": [
+    "0136": [
         " T\u00e9l\u00e9communications-Informatique/Internet ",
         "arrobe",
         "",
@@ -1492,10 +1503,10 @@
         " Caract\u00e8re @ fr\u00e9quemment employ\u00e9 dans les adresses de courrier \u00e9lectronique pour s\u00e9parer le nom identifiant l'utilisateur de celui du gestionnaire de la messagerie. ",
         "",
         "https://fr.wikipedia.org/wiki/Arobase",
-        "Scripts\\Wiki_QR\\arrobe.png",
-        "Scripts\\AR_Code\\0135.png"
+        "Scripts\\Wiki_QR\\0136.png",
+        "Scripts\\AR_Code\\0136.png"
     ],
-    "0136": [
+    "0137": [
         " T\u00e9l\u00e9communications-Informatique/Internet ",
         "arrosage",
         "",
@@ -1503,10 +1514,10 @@
         " Envoi d'un m\u00eame message \u00e9lectronique \u00e0 un tr\u00e8s grand nombre de destinataires au risque de les importuner. ",
         "",
         "https://fr.wikipedia.org/wiki/Logiciel_d%27envoi_de_courrier_%C3%A9lectronique_de_masse",
-        "Scripts\\Wiki_QR\\arrosage.png",
-        "Scripts\\AR_Code\\0136.png"
+        "Scripts\\Wiki_QR\\0137.png",
+        "Scripts\\AR_Code\\0137.png"
     ],
-    "0137": [
+    "0138": [
         " T\u00e9l\u00e9communications-Informatique/Internet ",
         "article de forum ",
         "",
@@ -1514,7 +1525,7 @@
         " Document similaire \u00e0 un message \u00e9lectronique, destin\u00e9 \u00e0 alimenter un ou plusieurs forums. ",
         "",
         "https://fr.wikipedia.org/wiki/Forum_(informatique)",
-        "Scripts\\Wiki_QR\\article_de_forum_.png",
-        "Scripts\\AR_Code\\0137.png"
+        "Scripts\\Wiki_QR\\0138.png",
+        "Scripts\\AR_Code\\0138.png"
     ]
 }
