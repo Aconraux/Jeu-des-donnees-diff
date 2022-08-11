@@ -1,5 +1,8 @@
 # ChronoData
 
-## ChronoData est une application de Réalité Augmentée 
+ ChronoData est une application de Réalité Augmentée 
+
+# Licence
+Etalab
 
 
