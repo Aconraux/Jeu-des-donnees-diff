@@ -1,5 +1,5 @@
-# ChronoData
+# Jeu-des-données
 
-## ChronoData est une application de Réalité Augmentée 
+## Jeu-des-données est une application de Réalité Augmentée 
 
 
